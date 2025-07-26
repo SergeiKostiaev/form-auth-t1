@@ -1,0 +1,25 @@
+.aside {
+    width: 200px;
+    background: #f4f4f4;
+    padding: 16px;
+}
+
+.list {
+    list-style: none;
+    padding: 0
+}
+
+li {
+    padding: 16px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+    transition: all .2s;
+}
+
+a:hover {
+    color: #52a8ff;
+}
