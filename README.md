@@ -28,3 +28,9 @@
 git clone https://github.com/SergeiKostiaev/form-auth-t1.git
 npm install
 npm run dev
+```
+2. Для работы сервера 
+```bash
+git clone https://github.com/Pardeg/forms-server.git
+npm install
+npm run start
